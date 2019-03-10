@@ -1,0 +1,30 @@
+[10márc.2019 12:20:08.607] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.forgeVersion, 25.0.70, --fml.mcpVersion, 20190213.203750, --fml.mcpMappings, snapshot_20180921-1.13, --fml.mcVersion, 1.13.2, --fml.forgeGroup, net.minecraftforge, --accessToken, ????????, --version, FMLDev, --assetIndex, 1.13.1, --assetsDir, C:\Users\Menyét\.gradle\caches\forge_gradle\assets, --userProperties, {}]
+[10márc.2019 12:20:08.622] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher starting: java version 1.8.0_202
+[10márc.2019 12:20:08.997] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[10márc.2019 12:20:10.120] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--gameDir, ., --launchTarget, fmluserdevclient, --fml.forgeVersion, 25.0.70, --fml.mcpVersion, 20190213.203750, --fml.mcpMappings, snapshot_20180921-1.13, --fml.mcVersion, 1.13.2, --fml.forgeGroup, net.minecraftforge, --accessToken, ????????, --version, FMLDev, --assetIndex, 1.13.1, --assetsDir, C:\Users\Menyét\.gradle\caches\forge_gradle\assets, --userProperties, {}]
+[10márc.2019 12:20:13.468] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Player325
+[10márc.2019 12:20:27.368] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:block' was empty after loading
+[10márc.2019 12:20:27.399] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:potion' was empty after loading
+[10márc.2019 12:20:27.399] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:biome' was empty after loading
+[10márc.2019 12:20:27.399] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:block_entity_type' was empty after loading
+[10márc.2019 12:20:27.399] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:enchantment' was empty after loading
+[10márc.2019 12:20:27.399] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:entity_type' was empty after loading
+[10márc.2019 12:20:27.399] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:item' was empty after loading
+[10márc.2019 12:20:27.399] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:mob_effect' was empty after loading
+[10márc.2019 12:20:27.399] [Client thread/ERROR] [net.minecraft.util.registry.IRegistry/]: Registry 'minecraft:sound_event' was empty after loading
+[10márc.2019 12:20:27.680] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.1.6 build 14
+[10márc.2019 12:20:29.257] [Client thread/INFO] [net.minecraftforge.fml.ModLoader/CORE]: Loading Network data for FML net version: FML2
+[10márc.2019 12:20:29.299] [Client thread/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Failed to initialize mod containers
+[10márc.2019 12:20:29.430] [Client thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: forge-1.13.2-25.0.70_mapped_snapshot_20180921-1.13.jar, main, Default
+[10márc.2019 12:20:31.200] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager/]: Starting up SoundSystem version 201809301515...
+[10márc.2019 12:20:31.431] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager/]: Initializing No Sound
+[10márc.2019 12:20:31.432] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager/]: (Silent Mode)
+[10márc.2019 12:20:31.605] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager/]: OpenAL initialized.
+[10márc.2019 12:20:31.890] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager/SOUNDS]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+[10márc.2019 12:20:31.897] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager/SOUNDS]: Sound engine started
+[10márc.2019 12:20:37.441] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap/]: Max texture size: 8192
+[10márc.2019 12:20:39.159] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap/]: Created: 512x512 textures-atlas
+[10márc.2019 12:20:43.946] [Client thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Skipping lifecycle event ENQUEUE_IMC, 1 errors found.
+[10márc.2019 12:20:43.947] [Client thread/FATAL] [net.minecraftforge.fml.ModLoader/]: Failed to complete lifecycle event ENQUEUE_IMC, 1 errors found
+[10márc.2019 12:20:44.023] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[10márc.2019 12:20:44.965] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
