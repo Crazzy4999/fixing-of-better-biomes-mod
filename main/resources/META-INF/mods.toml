@@ -22,7 +22,7 @@ this is a mod
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 # Here's another dependency
-[[dependencies.examplemod]]
+[[dependencies.betterbiomesmod]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.13.2]"
